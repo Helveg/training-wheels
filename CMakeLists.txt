@@ -1,0 +1,5 @@
+
+CMAKE_MINIMUM_REQUIRED(VERSION 3.22)
+PROJECT(trainingwheels VERSION 1.0 LANGUAGES CXX)
+
+add_subdirectory(hello)
